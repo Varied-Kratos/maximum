@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-size: 24px;
+    font-style: italic;
+}
+p{
+    color:rgb(255, 255, 255);
+    font-family: cursive;
+}
+.Dogovor{
+    color:white;
+    font-family: cursive;
+}
+body{
+    background: black;
+}
+img{
+    height: 500;
+    width: 700;
+    border: 24px;
+    border-color: aliceblue;
+}
